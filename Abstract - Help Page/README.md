@@ -1,0 +1,1 @@
+I made Abstract's website's help page with using HTML and CSS. It's not that responsive right now but in the future I will try to use mobile first approach and develop my projects according this.
